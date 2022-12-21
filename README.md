@@ -1,9 +1,9 @@
 # SCREEN AWAKER
 
 ## **TABLE OF CONTENT**
-- [Overview](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-overview)
-- [Goal](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-goal)
-- [Motivation](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-motivation)
+- [Overview](https://github.com/whoisvishesh/Screen_Awaker/blob/main/README.md#-overview)
+- [Goal](https://github.com/whoisvishesh/Screen_Awaker#-goal)
+- [Motivation](https://github.com/whoisvishesh/Screen_Awaker#-motivation)
 - [Build status](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-build-status)
 - [Tech/Framework used](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-techframework-used)
 - [Contribute](https://github.com/whoisvishesh/Screen_Awaker/edit/main/README.md#-contribute)
