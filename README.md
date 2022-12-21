@@ -15,7 +15,7 @@ Right now the system is Bug-free.
 1) Programming language: Python
 2) Libraries used: pyautogui, time
 
-NOTE: PyAutoGUI uses the screen coordinates to determine the exact position to perform actions such as clicking, typing, scrolling, pressing, and dragging.
+NOTE: *PyAutoGUI uses the screen coordinates to determine the exact position to perform actions such as clicking, typing, scrolling, pressing, and dragging.*
 
 🔰 **Contribute**
 
